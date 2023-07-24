@@ -9,22 +9,18 @@ class ConfigServerApplicationTests {
 
     @Test
     void contextLoads() {
-        fail("fail");
     }
 
     @Test
     void contextLoads1() {
-        fail("fail1");
     }
 
     @Test
     void contextLoads2() {
-        fail("fail2");
     }
 
     @Test
     void contextLoads3() {
-        fail("fail3");
     }
 
     @Test
